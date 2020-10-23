@@ -2014,6 +2014,17 @@ input::-moz-focus-inner {
   margin-top: 0;
   color: #FFFFFF;
 }
+/* ------------------------------------------------------------------- 
+ * ## mycomment add h3 section
+ * ------------------------------------------------------------------- */
+.home-content h3 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-top: 0;
+  color: #FFFFFF;
+}
+
 
 .home-content__main {
   padding-right: 28rem;
