@@ -2059,7 +2059,7 @@ a.pswp__share--download:hover {
 }
 
 /* -------------------------------------------------------------------
- * ## 4. Caption
+ * ## 4. Caption F26522
  * ------------------------------------------------------------------- */
 .pswp__caption {
   position: absolute;
@@ -2068,12 +2068,14 @@ a.pswp__share--download:hover {
   width: 100%;
   min-height: 45px;
 }
-
+/* -------------------------------------------------------------------
+ * ## font color change from ffffff to F26522
+ * ------------------------------------------------------------------- */
 .pswp__caption h4 {
   font-size: 1.8rem;
   line-height: 1.333;
   margin: 0 0 .6rem;
-  color: #FFFFFF;
+  color: #F26522;
 }
 
 .pswp__caption small {
